@@ -1,5 +1,7 @@
 # Hackintosh | Gigabyte Z690 Aero D, Intel i9 12900KF, AMD Radeon RX 6900 X | macOS Tahoe 26.7.2 + RPCore 1.0.2
 
+<img width="2248" height="1346" alt="Portfolio - v3" src="https://github.com/user-attachments/assets/effd5643-d703-43f6-b687-abb195a5b0d0" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.7.2)
